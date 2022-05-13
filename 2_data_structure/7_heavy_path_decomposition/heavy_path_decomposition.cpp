@@ -1,4 +1,4 @@
-// heavy_path_decomposition
+// heavy_path_decomposition, 树链剖分
 #pragma comment(linker, "/STACK:1024000000,1024000000")
 #include<cstdio>
 #include<cstdlib>
